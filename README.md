@@ -1,4 +1,4 @@
-# 🧑‍💻 Welcome to My GitHub Profile!
+# 🧑‍💻 Welcome to My Profile!
 
 Hi there! I'm passionate about design and development, blending creativity with code to bring ideas to life. Whether it's writing low-level code or crafting UI/UX mockups, I'm always excited to learn and build cool things. 🚀
 

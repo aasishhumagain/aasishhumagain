@@ -43,9 +43,9 @@ Hi there! I'm passionate about design and development, blending creativity with 
 
 ## 📌 About Me
 
-- 🎯 Currently exploring more creative coding and game design  
-- 🧠 Always learning new tools and workflows  
-- 🧩 Interested in merging art + tech: 3D, UI/UX, and scripting  
+- 🎯 Currently exploring more creative coding and game design. 
+- 🧠 Always learning new tools and workflows.  
+- 🧩 Interested in merging art + tech: 3D, UI/UX, and scripting.
 
 ---
 

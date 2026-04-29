@@ -78,7 +78,7 @@ From low-level programming to UI/UX and 3D design, I like turning ideas into rea
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aasishhumagain&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aasishhumagain&show_icons=true&theme=radical&cache_seconds=1800" />
 </p>
 
 <p align="center">
